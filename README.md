@@ -2,4 +2,4 @@
 # An Application that encrypt your text information with RSA Algorithm .
 # Base on Qt Creator , C++ .
 # Use Matt McCutchen's C++ Big Integer Library .
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://)
